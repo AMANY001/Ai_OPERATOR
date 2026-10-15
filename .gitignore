@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.env
+state.db
+state.db-shm
+state.db-wal
+output/*.xlsx
+output/drafts/*
+output/reports/*
+output/backups/*
+playwright/.cache/
+.browser-profile/
+.DS_Store

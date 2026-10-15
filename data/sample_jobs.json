@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Sample Junior Python Developer",
+    "company": "Demo Systems (SAMPLE DATA)",
+    "location": "Remote (sample only)",
+    "eligibility": "Illustrative requirement: entry-level; Python fundamentals and Git",
+    "deadline": "Not real; sample record",
+    "link": "https://careers.example/sample-junior-python-developer",
+    "description": "Synthetic demonstration record. This is not a real vacancy.",
+    "contact_email": "",
+    "is_sample": true,
+    "source_mode": "local_sample_fallback",
+    "verification_status": "sample_not_live"
+  },
+  {
+    "title": "Sample Associate Data Analyst",
+    "company": "Example Data Works (SAMPLE DATA)",
+    "location": "Bengaluru (sample only)",
+    "eligibility": "Illustrative requirement: SQL, spreadsheets and basic statistics",
+    "deadline": "Not real; sample record",
+    "link": "https://careers.example/sample-associate-data-analyst",
+    "description": "Synthetic demonstration record. This is not a real vacancy.",
+    "contact_email": "",
+    "is_sample": true,
+    "source_mode": "local_sample_fallback",
+    "verification_status": "sample_not_live"
+  },
+  {
+    "title": "Sample Graduate AI Engineer",
+    "company": "Example Intelligence Lab (SAMPLE DATA)",
+    "location": "Remote (sample only)",
+    "eligibility": "Illustrative requirement: Python, ML basics and undergraduate degree",
+    "deadline": "Not real; sample record",
+    "link": "https://careers.example/sample-graduate-ai-engineer",
+    "description": "Synthetic demonstration record. This is not a real vacancy.",
+    "contact_email": "",
+    "is_sample": true,
+    "source_mode": "local_sample_fallback",
+    "verification_status": "sample_not_live"
+  },
+  {
+    "title": "Sample Software Engineer I",
+    "company": "Demo Cloud Studio (SAMPLE DATA)",
+    "location": "Hybrid (sample only)",
+    "eligibility": "Illustrative requirement: programming fundamentals, tests and Git",
+    "deadline": "Not real; sample record",
+    "link": "https://careers.example/sample-software-engineer-i",
+    "description": "Synthetic demonstration record. This is not a real vacancy.",
+    "contact_email": "",
+    "is_sample": true,
+    "source_mode": "local_sample_fallback",
+    "verification_status": "sample_not_live"
+  }
+]
